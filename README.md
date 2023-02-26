@@ -2,6 +2,4 @@
 
 coding practice
 
-C++
-Python
-C
+C++ / Python / C
